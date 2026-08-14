@@ -1,0 +1,18 @@
+# SPDX-FileCopyrightText: 2026 ErinaYip
+# SPDX-License-Identifier: MIT
+
+[config]
+version_check = false
+fallback_color = "#8AD5D0"
+prefer = "closest-to-fallback"
+contrast = 0.0
+
+[templates.prismlauncher-material-theme]
+input_path = "./templates/prismlauncher-material-theme.json"
+output_path = "../themes/Material-Design/theme.json"
+type = "SchemeTonalSpot"
+
+# To generate directly into an installed PrismLauncher theme, replace output_path
+# with one of these paths and keep themeStyle.css beside the generated theme.json:
+# Linux:   "~/.local/share/PrismLauncher/themes/Material-Design/theme.json"
+# Flatpak: "~/.var/app/org.prismlauncher.PrismLauncher/data/PrismLauncher/themes/Material-Design/theme.json"

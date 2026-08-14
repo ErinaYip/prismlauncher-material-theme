@@ -1,0 +1,36 @@
+{
+    "colors": {
+        "AlternateBase": "#1A1F1F",
+        "Base": "#101414",
+        "BrightText": "#FFB4AB",
+        "Button": "#334B49",
+        "ButtonText": "#E0E3E1",
+        "Highlight": "#8AD5D0",
+        "HighlightedText": "#003735",
+        "Link": "#8AD5D0",
+        "Text": "#E0E3E1",
+        "ToolTipBase": "#2A3131",
+        "ToolTipText": "#E0E3E1",
+        "Window": "#1A1F1F",
+        "WindowText": "#E0E3E1",
+        "fadeAmount": 0.45,
+        "fadeColor": "#101414"
+    },
+    "logColors": {
+        "MessageHighlight": "#242B2B",
+        "Message": "#E0E3E1",
+        "LauncherHighlight": "#4B3D58",
+        "Launcher": "#D9B8E9",
+        "DebugHighlight": "#00504D",
+        "Error": "#FFB4AB",
+        "ErrorHighlight": "#93000A",
+        "Warning": "#EAC16C",
+        "WarningHighlight": "#4B4524",
+        "Debug": "#86D993",
+        "FatalHighlight": "#FFB4AB",
+        "Fatal": "#690005"
+    },
+    "name": "Material Design",
+    "qssFilePath": "themeStyle.css",
+    "widgets": "Fusion"
+}
