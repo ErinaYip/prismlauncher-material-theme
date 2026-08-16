@@ -231,7 +231,9 @@ QPushButton {
 }
 
 QPushButton:hover {
-    background-color: palette(alternate-base);
+    background-color: palette(button);
+    border-color: palette(highlight);
+    color: palette(button-text);
 }
 
 QPushButton:focus {
@@ -252,7 +254,8 @@ QPushButton:flat {
 }
 
 QPushButton:flat:hover {
-    background-color: palette(alternate-base);
+    background-color: palette(button);
+    color: palette(button-text);
 }
 
 QPushButton:flat:pressed,
