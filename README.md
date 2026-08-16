@@ -9,11 +9,13 @@ SPDX-License-Identifier: MIT
 A dark Material Design 3 inspired widget theme for Prism Launcher.
 
 The installable theme lives in
-[`themes/Material-Design`](themes/Material-Design). Copy that folder into your
-Prism Launcher themes directory so the final structure is:
+[`themes/Material-Design`](themes/Material-Design). Copy the whole folder into
+your Prism Launcher themes directory so the final structure is:
 
 ```text
 PrismLauncher/themes/Material-Design/theme.json
+PrismLauncher/themes/Material-Design/themeStyle.css
+PrismLauncher/themes/Material-Design/resources/*.svg
 ```
 
 Then restart Prism Launcher and select `Material Design` under Settings >
